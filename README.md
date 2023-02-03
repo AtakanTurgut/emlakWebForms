@@ -2,9 +2,9 @@
 
 ## EmlakWebForms Api Addresses
 
-If we want to start the project with [Microsoft Visual Studio](https://visualstudio.microsoft.com/), we start the project by right-clicking on the "[\NonUserPropertyPage.aspx](//)" file while the project is open and selecting "View in Browser ([Selected Browser](https://www.google.com.tr/))".
+If we want to start the project with [Microsoft Visual Studio](https://visualstudio.microsoft.com/), we start the project by right-clicking on the "[\NonUserPropertyPage.aspx](https://github.com/AtakanTurgut/emlakWebForms/blob/main/emlakWebForms/NonUserPropertyPage.aspx)" file while the project is open and selecting "View in Browser ([Selected Browser](https://www.google.com.tr/))".
 
-It's best to start the project with "[\NonUserPropertyPage.aspx](//)" to run it properly.
+It's best to start the project with "[\NonUserPropertyPage.aspx](https://github.com/AtakanTurgut/emlakWebForms/blob/main/emlakWebForms/NonUserPropertyPage.aspx)" to run it properly.
 
 Microsoft SQL Server™ was used as the database management system.
 
