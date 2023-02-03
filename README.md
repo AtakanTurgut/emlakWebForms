@@ -24,7 +24,7 @@ Use this user email and password for the user page.
                 Password : 123456
 
 The project runs on "[localhost:?/](https://localhost:44324/)".
-The database is in the "database" folder.
+The database is in the [database](https://github.com/AtakanTurgut/emlakWebForms/tree/main/database) folder.
 
 ----
 ## EmlakWebForms Project [Images](https://github.com/AtakanTurgut/emlakWebForms/tree/main/pictures)
