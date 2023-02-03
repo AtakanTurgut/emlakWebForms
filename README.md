@@ -27,7 +27,7 @@ The project runs on "[localhost:?/](https://localhost:44324/)".
 The database is in the "database" folder.
 
 ----
-## EmlakWebForms Project [Images](//)
+## EmlakWebForms Project [Images](https://github.com/AtakanTurgut/emlakWebForms/tree/main/pictures)
 
 ### 1. Home Page:  https://localhost:44324/NonUserPropertyPage.aspx
 ![](/pictures/HomePage.PNG)
